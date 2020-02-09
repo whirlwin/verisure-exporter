@@ -1,0 +1,2 @@
+vsure==1.5.4
+prometheus_client==0.7.1
